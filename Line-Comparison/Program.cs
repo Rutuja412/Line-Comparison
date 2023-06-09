@@ -7,6 +7,7 @@ namespace Line_Comparison
         static void Main(string[] args)
         {
             Console.WriteLine("Welcome To Line Comparison");
+            LenghtOfLine.Calculate();
         }
     }
 }
